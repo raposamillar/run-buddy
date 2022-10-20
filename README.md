@@ -1,7 +1,7 @@
 # Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.<br><br>
+A website that offers fitness training services.<br>
 
 N.B.: Bootcamp study project
 
