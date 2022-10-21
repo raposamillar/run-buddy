@@ -12,7 +12,9 @@ N.B.: Bootcamp study project
 
 
 ## Website
-https://raposamillar.github.io/run-buddy/
+https://raposamillar.github.io/run-buddy/<br>
+
+<img src= "./assets/images/screenshot-1.jpg" width="500" />
 
 
 
